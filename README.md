@@ -1,6 +1,8 @@
 # Links 
 
 A proposta deste repositório é criar uma lista de **links** úteis e **gratuitos** para estudantes de programação. 
+<br>
+<br>
 ![](https://informaticasimples.net/wp-content/uploads/2011/09/futurama-online.png)
 
 
