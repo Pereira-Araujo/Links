@@ -18,6 +18,38 @@ A proposta deste repositório é criar uma lista de **links** úteis e **gratuit
 
 
 
+.........................................................
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
+.
+
+..
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
 
 
 
@@ -40,8 +72,19 @@ A proposta deste repositório é criar uma lista de **links** úteis e **gratuit
 
 
 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
-
+.
 
 
 
