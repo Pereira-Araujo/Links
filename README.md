@@ -8,32 +8,30 @@ A proposta deste repositório é criar uma lista de **links** úteis e **gratuit
 *   **Desafios/Games**
 *   **Sites/Blogs**
 
-## **Referências**
+##  :bookmark_tabs: **Referências**
 
-****
+
 _[FreeCodeCamp](https://www.w3schools.com/)_
-****
-## **Cursos**
 
-****
+ ## :books: **Cursos**
+
+
 
 _[FreeCodeCamp](https://www.freecodecamp.org/)_
 
 
-****
-##  **Desafios/Games**
 
-****
+## :video_game: **Desafios/Games**
+
+
 
 _[HackerRank](https://www.hackerrank.com/)_
 
 _[SoloLearn](https://www.sololearn.com/)_
 
 
-****
 
-**Sites/Blogs**
+## :computer: **Sites/Blogs**
 
-****
 
-****
+
