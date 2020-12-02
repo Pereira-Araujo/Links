@@ -11,12 +11,12 @@ A proposta deste repositório é criar uma lista de **links** úteis e **gratuit
 ##  :bookmark_tabs: **Referências**
 
 
-_[W3School](https://www.w3schools.com/)_
+* _[W3School](https://www.w3schools.com/)_
 
  ## :books: **Cursos**
 
 
-_[FreeCodeCamp](https://www.freecodecamp.org/)_
+* _[FreeCodeCamp](https://www.freecodecamp.org/)_
 
 
 
@@ -24,9 +24,9 @@ _[FreeCodeCamp](https://www.freecodecamp.org/)_
 
 
 
-_[HackerRank](https://www.hackerrank.com/)_
+* _[HackerRank](https://www.hackerrank.com/)_
 
-_[SoloLearn](https://www.sololearn.com/)_
+* _[SoloLearn](https://www.sololearn.com/)_
 
 
 
