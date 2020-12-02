@@ -14,6 +14,42 @@ A proposta deste repositório é criar uma lista de **links** úteis e **gratuit
   </ul>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <b><h2 id="#referencia">Referências</h2><b>
   
 [RackerRank](https://www.hackerrank.com/)
