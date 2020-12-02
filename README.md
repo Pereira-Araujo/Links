@@ -11,10 +11,9 @@ A proposta deste repositório é criar uma lista de **links** úteis e **gratuit
 ##  :bookmark_tabs: **Referências**
 
 
-_[FreeCodeCamp](https://www.w3schools.com/)_
+_[W3School](https://www.w3schools.com/)_
 
  ## :books: **Cursos**
-
 
 
 _[FreeCodeCamp](https://www.freecodecamp.org/)_
