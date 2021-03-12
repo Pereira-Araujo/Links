@@ -1,5 +1,7 @@
 # Links 
-🚧🚧🚧🚧
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 <br>
 A proposta deste repositório é criar uma lista de **links** úteis e **gratuitos** para estudantes de programação. 
 <br>
