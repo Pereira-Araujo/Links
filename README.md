@@ -1,4 +1,5 @@
 # Links 
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -6,7 +7,8 @@
 A proposta deste repositório é criar uma lista de **links** úteis e **gratuitos** para estudantes de programação. 
 <br>
 <br>
-![](https://informaticasimples.net/wp-content/uploads/2011/09/futurama-online.png)
+
+![Ehhh](https://informaticasimples.net/wp-content/uploads/2011/09/futurama-online.png)
 
 ## :globe_with_meridians: **Para *codar* online**
 
