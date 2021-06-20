@@ -3,12 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-<br>
-A proposta deste repositório é criar uma lista de **links** úteis e **gratuitos** para estudantes de programação. 
-<br>
-<br>
 
-![Ehhh](https://informaticasimples.net/wp-content/uploads/2011/09/futurama-online.png)
+- A proposta deste repositório é criar uma lista de **links** úteis e **gratuitos** para estudantes de programação. 
+
+
+![image](https://user-images.githubusercontent.com/60116988/122689587-29e78500-d1fa-11eb-851e-05bdaaa94c66.png)
 
 ## :globe_with_meridians: **Para *codar* online**
 
